@@ -10,5 +10,6 @@ class MainActivity2 : AppCompatActivity() {
 
         supportActionBar?.hide()
         //ppp
+//pppp
     }
 }
